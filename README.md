@@ -1,4 +1,3 @@
-```
 ## **README**
 
 ### **Quantitative Analysis of Lithuanian Party Program Text Files**
@@ -41,4 +40,3 @@ This repository contains the code and results of a quantitative analysis conduct
 * **Comparative Analysis:** Comparing the programs based on specific themes or keywords.
 
 **Note:** For more detailed information, refer to the specific code files and documentation within this repository.
-```
